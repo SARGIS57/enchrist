@@ -60,7 +60,7 @@
     <BR>
     
    <div> 
-    <a href="file:///C:/Users/saqog/armenie%2011.html" class="button">Fréquentations</a>
+    <a href="[file:///C:/Users/saqog/armenie%2011.html](https://sargis57.github.io/Dieu-est-grand/)" class="button">Fréquentations</a>
     <br>
     <br>
     <br>
